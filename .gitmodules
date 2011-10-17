@@ -1,0 +1,6 @@
+[submodule "lib/chess_js"]
+	path = lib/chess_js
+	url = https://github.com/jhlywa/chess.js.git
+[submodule "lib/bootstrap"]
+	path = lib/bootstrap
+	url = https://github.com/twitter/bootstrap.git
